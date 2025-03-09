@@ -1,0 +1,11 @@
+/* Apply styles to the first paragraph in each div */
+div > p:first-child {
+    background-color: yellow;
+    color: red;
+}
+
+/* Apply styles to other paragraphs in each div */
+div > p:not(:first-child) {
+    background-color: blue;
+    color: white;
+}

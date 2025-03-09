@@ -1,0 +1,27 @@
+/* .red{
+color: red;
+}
+
+.bg-yellow{
+    background-color: rgb(227, 227, 78);
+}
+
+#firstddiv{
+    background-color: rgb(227, 123, 123);
+} */
+
+
+
+/*  . --> dot means class
+    # --> # means id */
+
+.red{
+   background-color: red;
+}
+
+.bg-yellow{
+   background-color: yellow;
+}
+#firstdiv{
+    /* background-color: red; */
+}

@@ -1,0 +1,25 @@
+body{
+    color: rgb(144, 208, 187);
+    background-color: rgb(178, 126, 225);
+}
+
+.imageContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+td {
+    border: 2px solid black;
+}
+
+footer{
+    justify-content: center;
+    align-items: center;
+}
+
+header {
+    justify-content: center;
+    align-items: center;
+    
+}
